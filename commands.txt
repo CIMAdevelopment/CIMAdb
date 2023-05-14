@@ -1,0 +1,25 @@
+commands:
+CurrentTime
+CheckIfExists
+CreateTable
+DeleteTable
+CreateEntry
+DeleteEntry
+OverwriteEntry
+ModifyKey
+ReadKey
+MatchKey
+
+SaveDatabase
+ParseCommands
+CheckIfRequiredArgsGiven
+
+
+return codes:
+-5: Table/Entry/Key Already exists
+-4: Table/Entry/Key Doesn't exists
+-3: missing command
+-2: argument is invalid
+-1: missing arguments
+0: error that aint really bad
+1: command was succesfull
