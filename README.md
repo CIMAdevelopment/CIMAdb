@@ -3,7 +3,7 @@
 
 The detailled instructions will be written, after the code has been completed.
 
-## current commands
+## Current commands
 
 + CurrentTime
 + CheckIfExists
@@ -19,22 +19,21 @@ The detailled instructions will be written, after the code has been completed.
 
 ## ParseCommands
 
-allows you to execute multiple commands at once by giving it a list containing dicts which contain the commands
+Allows you to execute multiple commands at once by giving it a list containing dicts which contain the commands
 
 ## CheckIfRequiredArgsGiven:
-checks if the commands contain the required arguments
-return codes:
+Checks if the commands contain the required arguments. Return codes:
 
 + -5: Table/Entry/Key Already exists
 
 + -4: Table/Entry/Key Doesn't exists
 
-+ -3: missing command
++ -3: Missing command
 
-+ -2: argument is invalid
++ -2: Argument is invalid
 
-+ -1: missing arguments
++ -1: Missing arguments
 
-+ 0: error that aint really bad
++ 0: Error that aint really bad
 
-+ 1: command was succesfull
++ 1: Command was succesfull
