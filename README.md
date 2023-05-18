@@ -1,35 +1,27 @@
 # CIMAdb
-W.I.P. json database written in python
+## W.I.P. json database written in python
 
-i will add how to use it once ive time to write it
-commands:
+The detailled instructions will be written, after the code has been completed.
 
-CurrentTime
+## current commands
 
-CheckIfExists
++ CurrentTime
++ CheckIfExists
++ CreateTable
++ DeleteTable
++ CreateEntry
++ DeleteEntry
++ OverwriteEntry
++ ModifyKey
++ ReadKey
++ MatchKey
++ SaveDatabase
 
-CreateTable
+## ParseCommands
 
-DeleteTable
-
-CreateEntry
-
-DeleteEntry
-
-OverwriteEntry
-
-ModifyKey
-
-ReadKey
-
-MatchKey
-
-SaveDatabase
-
-ParseCommands:
 allows you to execute multiple commands at once by giving it a list containing dicts which contain the commands
 
-CheckIfRequiredArgsGiven:
+## CheckIfRequiredArgsGiven:
 checks if the commands contain the required arguments
 return codes:
 
