@@ -1,4 +1,5 @@
-# CIMAdb
+# CIMA: Project Database
+
 ## W.I.P. json database written in python
 
 The detailled instructions will be written, after the code has been completed.
