@@ -23,7 +23,9 @@ The detailled instructions will be written, after the code has been completed.
 Allows you to execute multiple commands at once by giving it a list containing dicts which contain the commands
 
 ## CheckIfRequiredArgsGiven:
-Checks if the commands contain the required arguments. Return codes:
+Checks if the commands contain the required arguments.
+
+## Return codes:
 
 + -5: Table/Entry/Key Already exists
 
