@@ -6,6 +6,7 @@ The detailled instructions will be written, after the code has been completed.
 
 ## To-Do:
 + Rewrite to save table data in Union var instead of dict (will make data easier to access and more like a traditional database)
++ Add server thingy (make it possible to use it as a server)
 
 ## Current commands
 
