@@ -42,4 +42,4 @@ Checks if the commands contain the required arguments.
 
 + 0: Error that aint really bad
 
-+ 1: Command was succesfull
++ 1: Command was succesful
